@@ -44,4 +44,4 @@ I started my coding journey with completion of 6-month bootcamp, after that I ha
 
 <a href="https://github.com/vishwajeet26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet26&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 
-<a href="https://app.daily.dev/vishwajeet"><img src="https://api.daily.dev/devcards/082a745661a64b3792229e1d0e2de365.png?r=bc4" width="400" alt="Vishwajeet singh's Dev Card"/></a>
+<a href="https://app.daily.dev/vishwajeet"><img src="https://github.com/vishwajeet26/vishwajeet26/blob/main/devcard.svg" width="400" alt="Vishwajeet singh's Dev Card"/></a>
